@@ -1,0 +1,352 @@
+[
+    {
+        "id": "1",
+        "name": "Bulbasaur",
+        "type1": "Grass",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "2",
+        "name": "Ivysaur",
+        "type1": "Grass",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "3",
+        "name": "Venusaur",
+        "type1": "Grass",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "4",
+        "name": "Charmander",
+        "type1": "Fire",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "5",
+        "name": "Charmeleon",
+        "type1": "Fire",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "6",
+        "name": "Charizard",
+        "type1": "Fire",
+        "type2": "Flying",
+        "region": "Kanto"
+    },
+    {
+        "id": "7",
+        "name": "Squirtle",
+        "type1": "Water",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "8",
+        "name": "Wartortle",
+        "type1": "Water",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "9",
+        "name": "Blastoise",
+        "type1": "Water",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "10",
+        "name": "Caterpie",
+        "type1": "Bug",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "11",
+        "name": "Metapod",
+        "type1": "Bug",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "12",
+        "name": "Butterfree",
+        "type1": "Bug",
+        "type2": "Flying",
+        "region": "Kanto"
+    },
+    {
+        "id": "13",
+        "name": "Weedle",
+        "type1": "Bug",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "14",
+        "name": "Kakuna",
+        "type1": "Bug",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "15",
+        "name": "Beedrill",
+        "type1": "Bug",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "16",
+        "name": "Pidgey",
+        "type1": "Normal",
+        "type2": "Flying",
+        "region": "Kanto"
+    },
+    {
+        "id": "17",
+        "name": "Pidgeotto",
+        "type1": "Normal",
+        "type2": "Flying",
+        "region": "Kanto"
+    },
+    {
+        "id": "18",
+        "name": "Pidgeot",
+        "type1": "Normal",
+        "type2": "Flying",
+        "region": "Kanto"
+    },
+    {
+        "id": "19",
+        "name": "Rattata",
+        "type1": "Normal",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "20",
+        "name": "Raticate",
+        "type1": "Normal",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "21",
+        "name": "Spearow",
+        "type1": "Normal",
+        "type2": "Flying",
+        "region": "Kanto"
+    },
+    {
+        "id": "22",
+        "name": "Fearow",
+        "type1": "Normal",
+        "type2": "Flying",
+        "region": "Kanto"
+    },
+    {
+        "id": "23",
+        "name": "Ekans",
+        "type1": "Poison",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "24",
+        "name": "Arbok",
+        "type1": "Poison",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "25",
+        "name": "Pikachu",
+        "type1": "Electric",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "26",
+        "name": "Raichu",
+        "type1": "Electric",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "27",
+        "name": "Sandshrew",
+        "type1": "Ground",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "28",
+        "name": "Sandslash",
+        "type1": "Ground",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "29",
+        "name": "Nidoran♀",
+        "type1": "Poison",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "30",
+        "name": "Nidorina",
+        "type1": "Poison",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "31",
+        "name": "Nidoqueen",
+        "type1": "Poison",
+        "type2": "Ground",
+        "region": "Kanto"
+    },
+    {
+        "id": "32",
+        "name": "Nidoran♂",
+        "type1": "Poison",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "33",
+        "name": "Nidorino",
+        "type1": "Poison",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "34",
+        "name": "Nidoking",
+        "type1": "Poison",
+        "type2": "Ground",
+        "region": "Kanto"
+    },
+    {
+        "id": "35",
+        "name": "Clefairy",
+        "type1": "Fairy",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "36",
+        "name": "Clefable",
+        "type1": "Fairy",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "37",
+        "name": "Vulpix",
+        "type1": "Fire",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "38",
+        "name": "Ninetales",
+        "type1": "Fire",
+        "type2": "",
+        "region": "Kanto"
+    },
+    {
+        "id": "39",
+        "name": "Jigglypuff",
+        "type1": "Normal",
+        "type2": "Fairy",
+        "region": "Kanto"
+    },
+    {
+        "id": "40",
+        "name": "Wigglytuff",
+        "type1": "Normal",
+        "type2": "Fairy",
+        "region": "Kanto"
+    },
+    {
+        "id": "41",
+        "name": "Zubat",
+        "type1": "Poison",
+        "type2": "Flying",
+        "region": "Kanto"
+    },
+    {
+        "id": "42",
+        "name": "Golbat",
+        "type1": "Poison",
+        "type2": "Flying",
+        "region": "Kanto"
+    },
+    {
+        "id": "43",
+        "name": "Oddish",
+        "type1": "Grass",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "44",
+        "name": "Gloom",
+        "type1": "Grass",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "45",
+        "name": "Vileplume",
+        "type1": "Grass",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "46",
+        "name": "Paras",
+        "type1": "Bug",
+        "type2": "Grass",
+        "region": "Kanto"
+    },
+    {
+        "id": "47",
+        "name": "Parasect",
+        "type1": "Bug",
+        "type2": "Grass",
+        "region": "Kanto"
+    },
+    {
+        "id": "48",
+        "name": "Venonat",
+        "type1": "Bug",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "49",
+        "name": "Venomoth",
+        "type1": "Bug",
+        "type2": "Poison",
+        "region": "Kanto"
+    },
+    {
+        "id": "50",
+        "name": "Diglett",
+        "type1": "Ground",
+        "type2": "",
+        "region": "Kanto"
+    }
+]
